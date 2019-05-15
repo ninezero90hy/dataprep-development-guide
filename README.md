@@ -1,5 +1,3 @@
-# 데이터프랩 개발환경 설정 가이드
-
 # 1. 메타트론 개발환경 설정하기
 
 - 참고 - [https://github.com/ninezero90hy/metatron-settings](https://github.com/ninezero90hy/metatron-settings)
